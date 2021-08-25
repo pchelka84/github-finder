@@ -1,0 +1,179 @@
+[33mcommit c67012098ab67a5cab75850fe0095b1d7e83a8b5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Wed Aug 25 15:14:38 2021 -0400
+
+    move clearUsers to Context
+
+[33mcommit 08e38b627c69ed1e9847ef27f7e4301e2ffecd63[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Wed Aug 25 15:01:58 2021 -0400
+
+    create reducer and actions
+
+[33mcommit aeac6f7863e8578fe72ddb7b4a24004dc992a2e3[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Wed Aug 25 14:25:16 2021 -0400
+
+    setup ContextAPI
+
+[33mcommit 6b849502bd08c5cf4a8938392e15c78d6f34f754[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Wed Aug 25 11:53:36 2021 -0400
+
+    App class to functional component with useState hook
+
+[33mcommit 7bed15233b6d497c4e94a2f4250714e4e9541d64[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Wed Aug 25 11:40:56 2021 -0400
+
+    user class to function with useEffect
+
+[33mcommit 13eeca2f2447d4bbc8ff27129d754e9feb0218bd[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Wed Aug 25 11:25:05 2021 -0400
+
+    conver Search class comp to functional component with useState hook
+
+[33mcommit 2adaae7cf6a5f6c7565cc3b5d156d846e57e8686[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Tue Aug 24 15:57:56 2021 -0400
+
+    creating repoItem and adding repos to the UI
+
+[33mcommit 65f88c059196c6fe389b0788f5ae58de5e8799b5[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Tue Aug 24 15:36:47 2021 -0400
+
+    user component UI and layout
+
+[33mcommit c0d0b5b5489bfec54815aa8acc78bbe5b78c58af[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Tue Aug 24 14:43:58 2021 -0400
+
+    create user component
+
+[33mcommit 52b58fd632d27a685ef019d77b4e415594591964[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 15:54:02 2021 -0400
+
+    Set up routers
+
+[33mcommit 2553f68dd33a439deb4215f926178e4da9ebd330[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 15:34:24 2021 -0400
+
+    make default export
+
+[33mcommit 5ca25301134b900b3e3fcec14133c8caf40933bc[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 14:44:06 2021 -0400
+
+    install react-router-dom
+
+[33mcommit 11c08ec98b81b443c7afa738a2f65998d552b0f3[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 14:40:33 2021 -0400
+
+    create an alert when nothing is being submitted
+
+[33mcommit cbd59f3bca7a394b8a4cbab1d46295cafa40d045[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 14:20:22 2021 -0400
+
+    create clear button to clear users from the state
+
+[33mcommit 4abb62b7f88226b84072e602694e8bdae614e598[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 14:05:42 2021 -0400
+
+    implement searching users
+
+[33mcommit cc9cb24bab054106d0da5887e8fc59803c071fc6[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 13:45:35 2021 -0400
+
+    enter and submit info to input field
+
+[33mcommit 2b4cef4e6aa803bfaf6632fcf4846afb78bdb3c2[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 13:30:27 2021 -0400
+
+    create search component
+
+[33mcommit d755fea0fae7be127ac4096ed74e644b21ae5118[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 11:49:10 2021 -0400
+
+    set environment variables
+
+[33mcommit 45eeb796943010b6c1ec4abda0623d248f7859de[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 11:37:36 2021 -0400
+
+    fixing typo
+
+[33mcommit e93922dfeedd5c2d2fcb5ad74ba01a03654464d8[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 11:20:22 2021 -0400
+
+    create && conditioanly display loading spinner
+
+[33mcommit 5c0ff7a53f5da0965189086e9811885a5cf59a6a[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 11:04:25 2021 -0400
+
+    install axios fetch users from API
+
+[33mcommit d3db296af65a4dafba5abeb4ca4ef51512558de3[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 10:37:02 2021 -0400
+
+    add ptopTypes for userItem
+
+[33mcommit 0d2da834f1564380f4e74b7b80b4b15c48daa161[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 10:33:38 2021 -0400
+
+    convert to functional components
+
+[33mcommit 993297cc4ecfacc2e673b09dbaf8fee01f856f58[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 10:04:25 2021 -0400
+
+    styling users layout
+
+[33mcommit ea8d38da581082446869234140c2d9362d1333b7[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Mon Aug 23 09:58:32 2021 -0400
+
+    creates users component
+
+[33mcommit 43f262bed4d07c32c37614562ed4a895f539a133[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Sat Aug 21 16:13:34 2021 -0400
+
+    create userItem component
+
+[33mcommit a7703d2da60834db2cb3da997e24b4438b80a507[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Sat Aug 21 15:45:14 2021 -0400
+
+    create navbar component
+
+[33mcommit f6b7d3e7d41eccd9a6cf60b2432aaeffffe340af[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Sat Aug 21 15:44:47 2021 -0400
+
+    add styling
+
+[33mcommit 1e9261c42717a060179ba30bc200a6d8c73745fc[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Sat Aug 21 14:29:37 2021 -0400
+
+    Initial setup
+
+[33mcommit 45d6d113927584c799819fbf85963af29d740704[m
+Author: Evgeniya Veselkova <evgeniyaveselk@gmail.com>
+Date:   Sat Aug 21 14:26:49 2021 -0400
+
+    Initialize project using Create React App
